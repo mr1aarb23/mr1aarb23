@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Marwane Aarab, an AI Engineering student passionate about Deep Learning, Computer Vision, NLP, and .
+### Hi there! 👋 I'm Marwane Aarab, an AI Engineering student passionate about Deep Learning, Computer Vision, and NLP.
 
 🌍 **Location:** Morocco
 
